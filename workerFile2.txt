@@ -1,1 +1,2 @@
 workerFile2.txt ver.1
+workerFile2.txt ver.2
